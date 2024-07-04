@@ -15,5 +15,5 @@ void loop() {
     Serial.print("Light: ");
     Serial.println(sensorValue); // In voi 2 chu so thap phan
 
-    delay(1000); // Cho 1 giay
+    delay(1000); // Chờ 1 giay
 }
